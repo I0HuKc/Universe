@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Universe\Universe\bin\Debug\Universe.exe.config
+C:\Users\Admin\source\repos\Universe\Universe\bin\Debug\Universe.exe
+C:\Users\Admin\source\repos\Universe\Universe\bin\Debug\Universe.pdb
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.Form1.resources
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.Properties.Resources.resources
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.exe
+C:\Users\Admin\source\repos\Universe\Universe\obj\Debug\Universe.pdb
