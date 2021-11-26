@@ -92,6 +92,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(1040, 672);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseMove);
             // 
             // label1
             // 
@@ -149,7 +150,7 @@
             this.nudDensity.TabIndex = 3;
             this.nudDensity.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.nudDensity.Value = new decimal(new int[] {
-            20,
+            5,
             0,
             0,
             0});
